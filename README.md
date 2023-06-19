@@ -20,6 +20,7 @@ My journey of learning computer graphics, of which there are some things about c
 |  [Real-Time Rendering](https://www.realtimerendering.com/)   |                                                              |
 |  [Physically Based Rendering Theory](https://www.pbrt.org/)  | *Physically Based Rendering* introduces the concepts and theory of photorealistic rendering hand in hand with the source code for a sophisticated renderer. |
 | [GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/foreword) |                                                              |
+| [Curves and Surfaces for CAGD](https://www.sciencedirect.com/book/9781558607378/curves-and-surfaces-for-cagd) | The book's unified treatment of all significant methods of curve and surface design is heavily focused on the movement from theory to application. The author provides complete C implementations of many of the theories he discusses, ranging from the traditional to the leading-edge. |
 
 ## Topics
 
