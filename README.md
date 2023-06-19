@@ -1,2 +1,33 @@
 # Explore-graphics-and-vision
 My journey of learning computer graphics, of which there are some things about computer vision, welcome to share!
+
+## Course
+
+|                             Name                             |                         Description                          |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [GAMES101：现代计算机图形学入门](https://www.bilibili.com/video/BV1X7411F744/?spm_id_from=333.1007.top_right_bar_window_history.content.click) | Taught by: [Lingqi Yan](https://sites.cs.ucsb.edu/~lingqi/)  |
+| [CS 5610/6610: Interactive Computer Graphics](https://graphics.cs.utah.edu/courses/cs6610/spring2021/) |      Taught by: [Cem Yuksel](http://www.cemyuksel.com/)      |
+| [GAMES202：高质量实时渲染](https://www.bilibili.com/video/BV1YK4y1T7yY/?spm_id_from=333.788.top_right_bar_window_history.content.click&vd_source=9d96fa0d747d399ca8c43f2a5c58026a) | Taught by: [Lingqi Yan](https://sites.cs.ucsb.edu/~lingqi/)  |
+| [CSC2520H: Geometry Processing](https://github.com/alecjacobson/geometry-processing-csc2520) | Taught by: [Alec Jacobson](http://www.cs.toronto.edu/~jacobson/) |
+| [CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/) | Taught by: [Feifei Li](https://profiles.stanford.edu/fei-fei-li) |
+| [EECS 498.008 / 598.008: Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/) |         Taught by: [Justin Johnson](Justin Johnson)          |
+
+## Book
+
+|                             Name                             |                         Description                          |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [Fundamentals of Computer Graphics 4th ](https://www.cs.cornell.edu/~srm/fcg4/) |                                                              |
+|  [Real-Time Rendering](https://www.realtimerendering.com/)   |                                                              |
+|  [Physically Based Rendering Theory](https://www.pbrt.org/)  | *Physically Based Rendering* introduces the concepts and theory of photorealistic rendering hand in hand with the source code for a sophisticated renderer. |
+| [GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/foreword) |                                                              |
+
+## Topics
+
+|                            Topics                            |                         Description                          |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [Nanite](https://docs.unrealengine.com/5.0/en-US/nanite-virtualized-geometry-in-unreal-engine/) | Nanite is Unreal Engine 5's virtualized geometry system which uses a new internal mesh format and rendering technology to render pixel scale detail and high object counts. It intelligently does work on only the detail that can be perceived and no more. Nanite's data format is also highly compressed, and supports fine-grained streaming with automatic level of detail. |
+|          [NeRF](https://www.matthewtancik.com/nerf)          | NeRF (Neural Radiance Fields) is a method that achieves state-of-the-art results for synthesizing novel views of complex scenes by optimizing an underlying continuous volumetric scene function using a sparse set of input views. |
+|                       Fluid simulation                       |                                                              |
+|      [CUDA](https://developer.nvidia.com/cuda-toolkit)       | The NVIDIA® CUDA® Toolkit provides a development environment for creating high performance GPU-accelerated applications. With the CUDA Toolkit, you can develop, optimize, and deploy your applications on GPU-accelerated embedded systems, desktop workstations, enterprise data centers, cloud-based platforms and HPC supercomputers. The toolkit includes GPU-accelerated libraries, debugging and optimization tools, a C/C++ compiler, and a runtime library to deploy your application. |
+|                         Tessellation                         |                                                              |
+
