@@ -22,6 +22,13 @@ My journey of learning computer graphics, of which there are some things about c
 | [GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/foreword) |                                                              |
 | [Curves and Surfaces for CAGD](https://www.sciencedirect.com/book/9781558607378/curves-and-surfaces-for-cagd) | The book's unified treatment of all significant methods of curve and surface design is heavily focused on the movement from theory to application. The author provides complete C implementations of many of the theories he discusses, ranging from the traditional to the leading-edge. |
 
+## Tutorial
+
+|                            Name                            | Description |
+| :--------------------------------------------------------: | :---------: |
+|         [OpenGL](http://www.opengl-tutorial.org/)          |             |
+| [Blender in Youtube](https://www.youtube.com/@blenderguru) |             |
+
 ## Topics
 
 |                            Topics                            |                         Description                          |
@@ -31,4 +38,5 @@ My journey of learning computer graphics, of which there are some things about c
 |                       Fluid simulation                       |                                                              |
 |      [CUDA](https://developer.nvidia.com/cuda-toolkit)       | The NVIDIA® CUDA® Toolkit provides a development environment for creating high performance GPU-accelerated applications. With the CUDA Toolkit, you can develop, optimize, and deploy your applications on GPU-accelerated embedded systems, desktop workstations, enterprise data centers, cloud-based platforms and HPC supercomputers. The toolkit includes GPU-accelerated libraries, debugging and optimization tools, a C/C++ compiler, and a runtime library to deploy your application. |
 |                         Tessellation                         |                                                              |
+|          [ImGUI](https://github.com/ocornut/imgui)           | Dear ImGui is a **bloat-free graphical user interface library for C++**. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline-enabled application. It is fast, portable, renderer agnostic, and self-contained (no external dependencies). |
 
