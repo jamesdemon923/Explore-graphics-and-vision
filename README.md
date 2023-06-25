@@ -11,6 +11,7 @@ My journey of learning computer graphics, of which there are some things about c
 | [CSC2520H: Geometry Processing](https://github.com/alecjacobson/geometry-processing-csc2520) | Taught by: [Alec Jacobson](http://www.cs.toronto.edu/~jacobson/) |
 | [CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/) | Taught by: [Feifei Li](https://profiles.stanford.edu/fei-fei-li) |
 | [EECS 498.008 / 598.008: Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/) |         Taught by: [Justin Johnson](Justin Johnson)          |
+| [CMU 15-462/662: computer graphics](http://15462.courses.cs.cmu.edu/fall2015/home) | Taught by: [Kayvon Fatahalian](http://www.cs.cmu.edu/~kayvonf) |
 
 ## Book
 
@@ -24,12 +25,13 @@ My journey of learning computer graphics, of which there are some things about c
 
 ## Tutorial
 
-|                            Name                            | Description |
-| :--------------------------------------------------------: | :---------: |
-|         [OpenGL](http://www.opengl-tutorial.org/)          |             |
-| [Blender in Youtube](https://www.youtube.com/@blenderguru) |             |
+|                             Name                             |              Description              |
+| :----------------------------------------------------------: | :-----------------------------------: |
+|          [OpenGL](http://www.opengl-tutorial.org/)           |             Graphics API              |
+|  [Blender in Youtube](https://www.youtube.com/@blenderguru)  |                                       |
+| [LaTex and BibTeX](https://libguides.mit.edu/cite-write/bibtex) | Citation Management and Writing Tools |
 
-## Topics
+## Topic
 
 |                            Topics                            |                         Description                          |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -39,4 +41,12 @@ My journey of learning computer graphics, of which there are some things about c
 |      [CUDA](https://developer.nvidia.com/cuda-toolkit)       | The NVIDIA® CUDA® Toolkit provides a development environment for creating high performance GPU-accelerated applications. With the CUDA Toolkit, you can develop, optimize, and deploy your applications on GPU-accelerated embedded systems, desktop workstations, enterprise data centers, cloud-based platforms and HPC supercomputers. The toolkit includes GPU-accelerated libraries, debugging and optimization tools, a C/C++ compiler, and a runtime library to deploy your application. |
 |                         Tessellation                         |                                                              |
 |          [ImGUI](https://github.com/ocornut/imgui)           | Dear ImGui is a **bloat-free graphical user interface library for C++**. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline-enabled application. It is fast, portable, renderer agnostic, and self-contained (no external dependencies). |
+
+## Source
+
+|                  Sources                  |   Description    |
+| :---------------------------------------: | :--------------: |
+| [TurboSquid](https://www.turbosquid.com/) | Model collection |
+|     [ShapeNet](https://shapenet.org/)     |  Model database  |
+|  [ImageNet](https://www.image-net.org/)   |  Image databse   |
 
