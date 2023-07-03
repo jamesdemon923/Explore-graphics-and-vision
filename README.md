@@ -22,6 +22,7 @@ My journey of learning computer graphics, of which there are some things about c
 |  [Physically Based Rendering Theory](https://www.pbrt.org/)  | *Physically Based Rendering* introduces the concepts and theory of photorealistic rendering hand in hand with the source code for a sophisticated renderer. |
 | [GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/foreword) |                                                              |
 | [Curves and Surfaces for CAGD](https://www.sciencedirect.com/book/9781558607378/curves-and-surfaces-for-cagd) | The book's unified treatment of all significant methods of curve and surface design is heavily focused on the movement from theory to application. The author provides complete C implementations of many of the theories he discusses, ranging from the traditional to the leading-edge. |
+|     [Polygon Mesh Processing](http://www.pmp-book.org/)      | This book discusses the whole geometry processing pipeline based on triangle meshes. The pipeline starts with data input, for example, a model acquired by 3D scanning techniques. This data can then go through processes of error removal, mesh creation, smoothing, conversion, morphing, and more. The authors detail techniques for those processes using triangle meshes. |
 
 ## Tutorial
 
@@ -44,9 +45,10 @@ My journey of learning computer graphics, of which there are some things about c
 
 ## Source
 
-|                  Sources                  |   Description    |
-| :---------------------------------------: | :--------------: |
-| [TurboSquid](https://www.turbosquid.com/) | Model collection |
-|     [ShapeNet](https://shapenet.org/)     |  Model database  |
-|  [ImageNet](https://www.image-net.org/)   |  Image databse   |
+|                  Sources                  |         Description          |
+| :---------------------------------------: | :--------------------------: |
+| [TurboSquid](https://www.turbosquid.com/) |       Model collection       |
+|     [ShapeNet](https://shapenet.org/)     |        Model database        |
+|  [ImageNet](https://www.image-net.org/)   |        Image databse         |
+|              Siggraph Course              | Course organized by Siggraph |
 
