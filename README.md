@@ -42,6 +42,7 @@ My journey of learning computer graphics, of which there are some things about c
 |      [CUDA](https://developer.nvidia.com/cuda-toolkit)       | The NVIDIA® CUDA® Toolkit provides a development environment for creating high performance GPU-accelerated applications. With the CUDA Toolkit, you can develop, optimize, and deploy your applications on GPU-accelerated embedded systems, desktop workstations, enterprise data centers, cloud-based platforms and HPC supercomputers. The toolkit includes GPU-accelerated libraries, debugging and optimization tools, a C/C++ compiler, and a runtime library to deploy your application. |
 |                         Tessellation                         |                                                              |
 |          [ImGUI](https://github.com/ocornut/imgui)           | Dear ImGui is a **bloat-free graphical user interface library for C++**. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline-enabled application. It is fast, portable, renderer agnostic, and self-contained (no external dependencies). |
+|                      3D reconstruction                       |         Geometry processing + 3D vision, SFM + SLAM          |
 
 ## Source
 
