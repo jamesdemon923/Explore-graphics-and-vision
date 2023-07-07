@@ -12,6 +12,7 @@ My journey of learning computer graphics, of which there are some things about c
 | [CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/) | Taught by: [Feifei Li](https://profiles.stanford.edu/fei-fei-li) |
 | [EECS 498.008 / 598.008: Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/) |         Taught by: [Justin Johnson](Justin Johnson)          |
 | [CMU 15-462/662: computer graphics](http://15462.courses.cs.cmu.edu/fall2015/home) | Taught by: [Kayvon Fatahalian](http://www.cs.cmu.edu/~kayvonf) |
+| [Multiple View Geometry](https://cvg.cit.tum.de/teaching/online/mvg) | Taught by: [Daniel Cremers](https://cvg.cit.tum.de/members/cremers) |
 
 ## Book
 
