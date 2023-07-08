@@ -30,6 +30,7 @@ My journey of learning computer graphics, of which there are some things about c
 |                             Name                             |              Description              |
 | :----------------------------------------------------------: | :-----------------------------------: |
 |          [OpenGL](http://www.opengl-tutorial.org/)           |             Graphics API              |
+|         [Learning OpenGL](https://learnopengl.com/)          |                                       |
 |  [Blender in Youtube](https://www.youtube.com/@blenderguru)  |                                       |
 | [LaTex and BibTeX](https://libguides.mit.edu/cite-write/bibtex) | Citation Management and Writing Tools |
 
