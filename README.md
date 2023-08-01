@@ -13,6 +13,7 @@ My journey of learning computer graphics, of which there are some things about c
 | [EECS 498.008 / 598.008: Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/) |         Taught by: [Justin Johnson](Justin Johnson)          |
 | [CMU 15-462/662: computer graphics](http://15462.courses.cs.cmu.edu/fall2015/home) | Taught by: [Kayvon Fatahalian](http://www.cs.cmu.edu/~kayvonf) |
 | [Multiple View Geometry](https://cvg.cit.tum.de/teaching/online/mvg) | Taught by: [Daniel Cremers](https://cvg.cit.tum.de/members/cremers) |
+| [A Comprehensive Introduction of Physics-Based Differentiable Rendering](https://shuangz.com/courses/pbdr-course-sg20/) | Taught by: [Shuang Zhao](https://shuangz.com/), [Wenzel Jakob](https://rgl.epfl.ch/people/wjakob), and [Tzu-Mao Li](https://cseweb.ucsd.edu/~tzli/) |
 
 ## Book
 
@@ -31,6 +32,7 @@ My journey of learning computer graphics, of which there are some things about c
 | :----------------------------------------------------------: | :-----------------------------------: |
 |          [OpenGL](http://www.opengl-tutorial.org/)           |             Graphics API              |
 |         [Learning OpenGL](https://learnopengl.com/)          |                                       |
+| [Differentiable rendering](https://diff-render.org/tutorials/cvpr2021/) |                                       |
 |  [Blender in Youtube](https://www.youtube.com/@blenderguru)  |                                       |
 | [LaTex and BibTeX](https://libguides.mit.edu/cite-write/bibtex) | Citation Management and Writing Tools |
 
@@ -40,11 +42,13 @@ My journey of learning computer graphics, of which there are some things about c
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | [Nanite](https://docs.unrealengine.com/5.0/en-US/nanite-virtualized-geometry-in-unreal-engine/) | Nanite is Unreal Engine 5's virtualized geometry system which uses a new internal mesh format and rendering technology to render pixel scale detail and high object counts. It intelligently does work on only the detail that can be perceived and no more. Nanite's data format is also highly compressed, and supports fine-grained streaming with automatic level of detail. |
 |          [NeRF](https://www.matthewtancik.com/nerf)          | NeRF (Neural Radiance Fields) is a method that achieves state-of-the-art results for synthesizing novel views of complex scenes by optimizing an underlying continuous volumetric scene function using a sparse set of input views. |
-|                       Fluid simulation                       |                                                              |
+|         [Mitsuba](https://www.mitsuba-renderer.org/)         | Mitsuba 3 is a research-oriented *retargetable* rendering system, written in portable C++17 on top of the [Dr.Jit Just-In-Time compiler](https://github.com/mitsuba-renderer/drjit). It is developed by the [Realistic Graphics Lab](https://rgl.epfl.ch/) at [EPFL](https://epfl.ch/). |
+| [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH) | SPlisHSPlasH is an open-source library for the physically-based simulation of fluids. The simulation in this library is based on the Smoothed Particle Hydrodynamics (SPH) method which is a popular meshless Lagrangian approach to simulate complex fluid effects. |
 |      [CUDA](https://developer.nvidia.com/cuda-toolkit)       | The NVIDIA® CUDA® Toolkit provides a development environment for creating high performance GPU-accelerated applications. With the CUDA Toolkit, you can develop, optimize, and deploy your applications on GPU-accelerated embedded systems, desktop workstations, enterprise data centers, cloud-based platforms and HPC supercomputers. The toolkit includes GPU-accelerated libraries, debugging and optimization tools, a C/C++ compiler, and a runtime library to deploy your application. |
-|                         Tessellation                         |                                                              |
+| [PN triangle](https://www.cise.ufl.edu/research/SurfLab/papers/00ati.pdf) | The curved **point-normal triangle**, in short **PN triangle**, is an interpolation algorithm to retrieve a cubic Bézier triangle from the vertex coordinates of a regular flat triangle and normal vectors |
 |          [ImGUI](https://github.com/ocornut/imgui)           | Dear ImGui is a **bloat-free graphical user interface library for C++**. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline-enabled application. It is fast, portable, renderer agnostic, and self-contained (no external dependencies). |
-|                      3D reconstruction                       |         Geometry processing + 3D vision, SFM + SLAM          |
+|                             SFM                              |                                                              |
+|                             SLAM                             |                                                              |
 
 ## Source
 
