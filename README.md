@@ -52,10 +52,11 @@ My journey of learning computer graphics, of which there are some things about c
 
 ## Source
 
-|                  Sources                  |         Description          |
-| :---------------------------------------: | :--------------------------: |
-| [TurboSquid](https://www.turbosquid.com/) |       Model collection       |
-|     [ShapeNet](https://shapenet.org/)     |        Model database        |
-|  [ImageNet](https://www.image-net.org/)   |        Image databse         |
-|              Siggraph Course              | Course organized by Siggraph |
+|                           Sources                            |         Description          |
+| :----------------------------------------------------------: | :--------------------------: |
+|          [TurboSquid](https://www.turbosquid.com/)           |       Model collection       |
+|              [ShapeNet](https://shapenet.org/)               |        Model database        |
+|            [ImageNet](https://www.image-net.org/)            |        Image databse         |
+|                       Siggraph Course                        | Course organized by Siggraph |
+| [Siggraph Annual Papers](https://kesen.realtimerendering.com/) |  Collected by Ke-Sen Huang   |
 
