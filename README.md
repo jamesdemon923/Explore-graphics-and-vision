@@ -26,6 +26,26 @@ My journey of learning computer graphics, of which there are some things about c
 | [Curves and Surfaces for CAGD](https://www.sciencedirect.com/book/9781558607378/curves-and-surfaces-for-cagd) | The book's unified treatment of all significant methods of curve and surface design is heavily focused on the movement from theory to application. The author provides complete C implementations of many of the theories he discusses, ranging from the traditional to the leading-edge. |
 |     [Polygon Mesh Processing](http://www.pmp-book.org/)      | This book discusses the whole geometry processing pipeline based on triangle meshes. The pipeline starts with data input, for example, a model acquired by 3D scanning techniques. This data can then go through processes of error removal, mesh creation, smoothing, conversion, morphing, and more. The authors detail techniques for those processes using triangle meshes. |
 
+## Conference
+
+|                         Name                          | Description |
+| :---------------------------------------------------: | :---------: |
+|                       Siggraph                        |             |
+|                     Siggraph Asia                     |             |
+|                     Eurographics                      |             |
+|            High Performance Graphics (HPG)            |             |
+| Symposium on Interactive 3D Graphics and Games (I3D)  |             |
+| Eurographics Symposium on Rendering Techniques (EGSR) |             |
+
+## Journal
+
+|              Name              | Description |
+| :----------------------------: | :---------: |
+| Transactions on graphics (TOG) |             |
+| Computer Graphics Forum (CGF)  |             |
+
+
+
 ## Tutorial
 
 |                             Name                             |              Description              |
