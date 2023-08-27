@@ -14,6 +14,7 @@ My journey of learning computer graphics, of which there are some things about c
 | [CMU 15-462/662: computer graphics](http://15462.courses.cs.cmu.edu/fall2015/home) | Taught by: [Kayvon Fatahalian](http://www.cs.cmu.edu/~kayvonf) |
 | [Multiple View Geometry](https://cvg.cit.tum.de/teaching/online/mvg) | Taught by: [Daniel Cremers](https://cvg.cit.tum.de/members/cremers) |
 | [A Comprehensive Introduction of Physics-Based Differentiable Rendering](https://shuangz.com/courses/pbdr-course-sg20/) | Taught by: [Shuang Zhao](https://shuangz.com/), [Wenzel Jakob](https://rgl.epfl.ch/people/wjakob), and [Tzu-Mao Li](https://cseweb.ucsd.edu/~tzli/) |
+| [A Gentle Introduction to ReSTIR: Path Reuse in Real-time](https://intro-to-restir.cwyman.org/) | Taught by: [Chris Wyman](http://cwyman.org/), [Markus Kettunen](https://research.nvidia.com/person/markus-kettunen), [Daqi Lin](https://dqlin.xyz/), [Benedikt Bitterli](https://benedikt-bitterli.me/), [Cem Yuksel](http://www.cemyuksel.com/), [Wojciech Jarosz](https://cs.dartmouth.edu/~wjarosz/), and [Pawel Kozlowski](https://www.linkedin.com/in/pawel-kozlowski-1870b154/) |
 
 ## Book
 
@@ -28,21 +29,25 @@ My journey of learning computer graphics, of which there are some things about c
 
 ## Conference
 
-|                         Name                          | Description |
-| :---------------------------------------------------: | :---------: |
-|                       Siggraph                        |             |
-|                     Siggraph Asia                     |             |
-|                     Eurographics                      |             |
-|            High Performance Graphics (HPG)            |             |
-| Symposium on Interactive 3D Graphics and Games (I3D)  |             |
-| Eurographics Symposium on Rendering Techniques (EGSR) |             |
+|                         Name                          |      Description      |
+| :---------------------------------------------------: | :-------------------: |
+|                       Siggraph                        |                       |
+|                     Siggraph Asia                     |                       |
+|                     Eurographics                      |                       |
+|            High Performance Graphics (HPG)            |                       |
+| Symposium on Interactive 3D Graphics and Games (I3D)  |                       |
+| Eurographics Symposium on Rendering Techniques (EGSR) |                       |
+|    Computer Vision and Pattern Recognition (CVPR)     |                       |
+|  International Conference on Computer Vision (ICCV)   | Biennial (Odd years)  |
+|     European Conference on Computer Vision (ECCV)     | Biennial (Even years) |
 
 ## Journal
 
-|              Name              | Description |
-| :----------------------------: | :---------: |
-| Transactions on graphics (TOG) |             |
-| Computer Graphics Forum (CGF)  |             |
+|                      Name                       | Description |
+| :---------------------------------------------: | :---------: |
+|         Transactions on graphics (TOG)          |             |
+|          Computer Graphics Forum (CGF)          |             |
+| International Journal of Computer Vision (IJCV) |             |
 
 
 
@@ -72,11 +77,14 @@ My journey of learning computer graphics, of which there are some things about c
 
 ## Source
 
-|                           Sources                            |         Description          |
-| :----------------------------------------------------------: | :--------------------------: |
-|          [TurboSquid](https://www.turbosquid.com/)           |       Model collection       |
-|              [ShapeNet](https://shapenet.org/)               |        Model database        |
-|            [ImageNet](https://www.image-net.org/)            |        Image databse         |
-|                       Siggraph Course                        | Course organized by Siggraph |
-| [Siggraph Annual Papers](https://kesen.realtimerendering.com/) |  Collected by Ke-Sen Huang   |
+|                           Sources                            |             Description              |
+| :----------------------------------------------------------: | :----------------------------------: |
+|          [TurboSquid](https://www.turbosquid.com/)           |           Model collection           |
+|              [ShapeNet](https://shapenet.org/)               |            Model database            |
+|            [ImageNet](https://www.image-net.org/)            |            Image databse             |
+| [Common 3D models](https://github.com/alecjacobson/common-3d-test-models) |        Common 3D test models         |
+| [Computer Graphics Archive by McGuire](https://casual-effects.com/data/) |     Test models for ray tracing      |
+|                       Siggraph Course                        |     Course organized by Siggraph     |
+| [Siggraph Annual Papers](https://kesen.realtimerendering.com/) |      Collected by Ke-Sen Huang       |
+|    [Computer Vision Foundation](https://www.thecvf.com/)     | Papers in various vision conferences |
 
