@@ -10,7 +10,7 @@ My journey of learning computer graphics, of which there are some things about c
 | [GAMES202：高质量实时渲染](https://www.bilibili.com/video/BV1YK4y1T7yY/?spm_id_from=333.788.top_right_bar_window_history.content.click&vd_source=9d96fa0d747d399ca8c43f2a5c58026a) | Taught by: [Lingqi Yan](https://sites.cs.ucsb.edu/~lingqi/)  |
 | [CSC2520H: Geometry Processing](https://github.com/alecjacobson/geometry-processing-csc2520) | Taught by: [Alec Jacobson](http://www.cs.toronto.edu/~jacobson/) |
 | [CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/) | Taught by: [Feifei Li](https://profiles.stanford.edu/fei-fei-li) |
-| [EECS 498.008 / 598.008: Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/) |         Taught by: [Justin Johnson](Justin Johnson)          |
+| [EECS 498.008 / 598.008: Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/) | Taught by: [Justin Johnson](https://web.eecs.umich.edu/~justincj/) |
 | [CMU 15-462/662: computer graphics](http://15462.courses.cs.cmu.edu/fall2015/home) | Taught by: [Kayvon Fatahalian](http://www.cs.cmu.edu/~kayvonf) |
 | [Multiple View Geometry](https://cvg.cit.tum.de/teaching/online/mvg) | Taught by: [Daniel Cremers](https://cvg.cit.tum.de/members/cremers) |
 | [A Comprehensive Introduction of Physics-Based Differentiable Rendering](https://shuangz.com/courses/pbdr-course-sg20/) | Taught by: [Shuang Zhao](https://shuangz.com/), [Wenzel Jakob](https://rgl.epfl.ch/people/wjakob), and [Tzu-Mao Li](https://cseweb.ucsd.edu/~tzli/) |
