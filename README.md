@@ -6,17 +6,22 @@ My journey of learning computer graphics, of which there are some things about c
 |                             Name                             |                         Description                          |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | [GAMES101：现代计算机图形学入门](https://www.bilibili.com/video/BV1X7411F744/?spm_id_from=333.1007.top_right_bar_window_history.content.click) | Taught by: [Lingqi Yan](https://sites.cs.ucsb.edu/~lingqi/)  |
-| [CS 5610/6610: Interactive Computer Graphics](https://graphics.cs.utah.edu/courses/cs6610/spring2021/) |      Taught by: [Cem Yuksel](http://www.cemyuksel.com/)      |
 | [GAMES202：高质量实时渲染](https://www.bilibili.com/video/BV1YK4y1T7yY/?spm_id_from=333.788.top_right_bar_window_history.content.click&vd_source=9d96fa0d747d399ca8c43f2a5c58026a) | Taught by: [Lingqi Yan](https://sites.cs.ucsb.edu/~lingqi/)  |
+| [CS 5610/6610: Interactive Computer Graphics](https://graphics.cs.utah.edu/courses/cs6610/spring2021/) |      Taught by: [Cem Yuksel](http://www.cemyuksel.com/)      |
 | [CSC2520H: Geometry Processing](https://github.com/alecjacobson/geometry-processing-csc2520) | Taught by: [Alec Jacobson](http://www.cs.toronto.edu/~jacobson/) |
+| [CSE 168: Computer Graphics II: Rendering](https://cseweb.ucsd.edu/~viscomp/classes/cse168/sp20/168.html) | Taught by: [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/) |
+| [CS6630: Realistic Image Synthesis](https://www.cs.cornell.edu/courses/cs6630/2015fa/index.shtml) | Taught by: [Steve Marschner](https://www.cs.cornell.edu/~srm) |
+| [CS-440: Advanced Computer Graphics](https://rgl.epfl.ch/courses/ACG20) | Taught by: [Wenzel Jakob](https://rgl.epfl.ch/people/wjakob) |
+| [COSC.087-COSC.187: Rendering Algorithms](https://canvas.dartmouth.edu/courses/35073) | Taught by: [Wojciech Jarosz](https://www.cs.dartmouth.edu/~wjarosz/) |
+| [CMU 15-462/662: Computer Graphics](http://15462.courses.cs.cmu.edu/fall2015/home) | Taught by: [Kayvon Fatahalian](http://www.cs.cmu.edu/~kayvonf) |
+| [CMU 15-468/668/868: Physics-based rendering](http://graphics.cs.cmu.edu/courses/15-468/index.html) | Taught by: [Ioannis (Yannis) Gkioulekas](http://www.cs.cmu.edu/~igkioule/) |
 | [CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/) | Taught by: [Feifei Li](https://profiles.stanford.edu/fei-fei-li) |
 | [EECS 498.008 / 598.008: Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/) | Taught by: [Justin Johnson](https://web.eecs.umich.edu/~justincj/) |
-| [CMU 15-462/662: computer graphics](http://15462.courses.cs.cmu.edu/fall2015/home) | Taught by: [Kayvon Fatahalian](http://www.cs.cmu.edu/~kayvonf) |
 | [Multiple View Geometry](https://cvg.cit.tum.de/teaching/online/mvg) | Taught by: [Daniel Cremers](https://cvg.cit.tum.de/members/cremers) |
 | [A Comprehensive Introduction of Physics-Based Differentiable Rendering](https://shuangz.com/courses/pbdr-course-sg20/) | Taught by: [Shuang Zhao](https://shuangz.com/), [Wenzel Jakob](https://rgl.epfl.ch/people/wjakob), and [Tzu-Mao Li](https://cseweb.ucsd.edu/~tzli/) |
 | [A Gentle Introduction to ReSTIR: Path Reuse in Real-time](https://intro-to-restir.cwyman.org/) | Taught by: [Chris Wyman](http://cwyman.org/), [Markus Kettunen](https://research.nvidia.com/person/markus-kettunen), [Daqi Lin](https://dqlin.xyz/), [Benedikt Bitterli](https://benedikt-bitterli.me/), [Cem Yuksel](http://www.cemyuksel.com/), [Wojciech Jarosz](https://cs.dartmouth.edu/~wjarosz/), and [Pawel Kozlowski](https://www.linkedin.com/in/pawel-kozlowski-1870b154/) |
 
-## Book
+## Text materials
 
 |                             Name                             |                         Description                          |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -27,6 +32,7 @@ My journey of learning computer graphics, of which there are some things about c
 | [Curves and Surfaces for CAGD](https://www.sciencedirect.com/book/9781558607378/curves-and-surfaces-for-cagd) | The book's unified treatment of all significant methods of curve and surface design is heavily focused on the movement from theory to application. The author provides complete C implementations of many of the theories he discusses, ranging from the traditional to the leading-edge. |
 |     [Polygon Mesh Processing](http://www.pmp-book.org/)      | This book discusses the whole geometry processing pipeline based on triangle meshes. The pipeline starts with data input, for example, a model acquired by 3D scanning techniques. This data can then go through processes of error removal, mesh creation, smoothing, conversion, morphing, and more. The authors detail techniques for those processes using triangle meshes. |
 | [An Invitation to 3-D Vision: From Images to Geometric Models](https://www.eecis.udel.edu/~cer/arv/readings/old_mkss.pdf) | This book is intended to give students at the advanced undergraduate or introductory graduate level and researchers in computer vision, robotics, and computer graphics a self-contained introduction to the geometry of 3-D vision: that is, the reconstruction of 3-D models of objects from a collection of 2-D images. The only prerequisite for this book is a course in linear algebra at the undergraduate level. |
+| [Robust Monte Carlo Methods for Light Transport Simulation](https://graphics.stanford.edu/papers/veach_thesis/) |                     Thesis of Eric Veach                     |
 
 ## Conference
 
