@@ -57,7 +57,12 @@ My journey of learning computer graphics, of which there are some things about c
 |          Computer Graphics Forum (CGF)          |             |
 | International Journal of Computer Vision (IJCV) |             |
 
+## Tool
 
+|                 Name                 |                         Description                          |
+| :----------------------------------: | :----------------------------------------------------------: |
+|    [GIMP](https://www.gimp.org/)     | GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems. It is [free software](https://www.gnu.org/philosophy/free-sw.html), you can change its [source code](https://git.gnome.org/browse/gimp) and [distribute](https://www.gnu.org/licenses/quick-guide-gplv3.en.html) your changes. |
+| [Mesh lab](https://www.meshlab.net/) | The open source system for processing and editing 3D triangular meshes.<br/>It provides a set of tools for editing, cleaning, healing, inspecting, rendering, texturing and converting meshes. It offers features for processing raw data produced by 3D digitization tools/devices and for preparing models for 3D printing. |
 
 ## Tutorial
 
