@@ -1,5 +1,5 @@
 # Explore-graphics-and-vision
-My journey of learning computer graphics, of which there are some things about computer vision, welcome to share!
+My journey of learning computer graphics, of which there are some things about computer vision, welcome to share and hope these can help!
 
 ## Course
 
@@ -66,13 +66,15 @@ My journey of learning computer graphics, of which there are some things about c
 
 ## Tutorial
 
-|                             Name                             |              Description              |
-| :----------------------------------------------------------: | :-----------------------------------: |
-|          [OpenGL](http://www.opengl-tutorial.org/)           |             Graphics API              |
-|         [Learning OpenGL](https://learnopengl.com/)          |                                       |
-| [Differentiable rendering](https://diff-render.org/tutorials/cvpr2021/) |                                       |
-|  [Blender in Youtube](https://www.youtube.com/@blenderguru)  |                                       |
-| [LaTex and BibTeX](https://libguides.mit.edu/cite-write/bibtex) | Citation Management and Writing Tools |
+|                             Name                             |                         Description                          |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+|          [OpenGL](http://www.opengl-tutorial.org/)           |                         Graphics API                         |
+|         [Learning OpenGL](https://learnopengl.com/)          |                                                              |
+|  [Optix tutorial](https://github.com/ingowald/optix7course)  |                                                              |
+|    [Tiny renderer](https://github.com/ssloy/tinyrenderer)    | Tiny Renderer or how OpenGL works: software rendering in 500 lines of code |
+| [Differentiable rendering](https://diff-render.org/tutorials/cvpr2021/) |                                                              |
+|  [Blender in Youtube](https://www.youtube.com/@blenderguru)  |                                                              |
+| [LaTex and BibTeX](https://libguides.mit.edu/cite-write/bibtex) |            Citation Management and Writing Tools             |
 
 ## Topic
 
