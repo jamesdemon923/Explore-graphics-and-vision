@@ -57,6 +57,14 @@ My journey of learning computer graphics, of which there are some things about c
 |          Computer Graphics Forum (CGF)          |             |
 | International Journal of Computer Vision (IJCV) |             |
 
+## Labs
+
+|                             Name                             |                         Description                          |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [Center for Visual Computing](http://visualcomputing.ucsd.edu/index.shtml) | In UCSD, faculties like [Ravi Ramamoorthi](http://cseweb.ucsd.edu/~ravir), [Tzu-Mao Li](https://cseweb.ucsd.edu/~tzli/), and [Manmohan Chandraker](https://cseweb.ucsd.edu/~mkchandraker/?_gl=1*1y0ati6*_ga*MTExNzA5ODcxMi4xNjg4MDAxMzQz*_ga_PWJGRGMV0T*MTY5OTgxOTIyOS4xMy4xLjE2OTk4MTk1OTMuMC4wLjA.) |
+|              [GrUVi](https://gruvi.cs.sfu.ca//)              |                            In SFU                            |
+|      [Utah Graphics Lab](https://graphics.cs.utah.edu/)      |                           In Utah                            |
+
 ## Tool
 
 |                 Name                 |                         Description                          |
