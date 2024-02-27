@@ -37,17 +37,18 @@ My journey of learning computer graphics, of which there are some things about c
 
 ## Conference
 
-|                         Name                          |      Description      |
-| :---------------------------------------------------: | :-------------------: |
-|                       Siggraph                        |                       |
-|                     Siggraph Asia                     |                       |
-|                     Eurographics                      |                       |
-|            High Performance Graphics (HPG)            |                       |
-| Symposium on Interactive 3D Graphics and Games (I3D)  |                       |
-| Eurographics Symposium on Rendering Techniques (EGSR) |                       |
-|    Computer Vision and Pattern Recognition (CVPR)     |                       |
-|  International Conference on Computer Vision (ICCV)   | Biennial (Odd years)  |
-|     European Conference on Computer Vision (ECCV)     | Biennial (Even years) |
+|                            Name                             |      Description      |
+| :---------------------------------------------------------: | :-------------------: |
+|                          Siggraph                           |                       |
+|                        Siggraph Asia                        |                       |
+|                        Eurographics                         |                       |
+|               High Performance Graphics (HPG)               |                       |
+|    Symposium on Interactive 3D Graphics and Games (I3D)     |                       |
+|    Eurographics Symposium on Rendering Techniques (EGSR)    |                       |
+|       Computer Vision and Pattern Recognition (CVPR)        |                       |
+|     International Conference on Computer Vision (ICCV)      | Biennial (Odd years)  |
+|        European Conference on Computer Vision (ECCV)        | Biennial (Even years) |
+| Winter Conference on Applications of Computer Vision (WACV) |                       |
 
 ## Journal
 
@@ -59,24 +60,27 @@ My journey of learning computer graphics, of which there are some things about c
 
 ## Labs
 
-|                             Name                             |                         Description                          |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| [Center for Visual Computing](http://visualcomputing.ucsd.edu/index.shtml) | In UCSD, faculties like [Ravi Ramamoorthi](http://cseweb.ucsd.edu/~ravir), [Tzu-Mao Li](https://cseweb.ucsd.edu/~tzli/), and [Manmohan Chandraker](https://cseweb.ucsd.edu/~mkchandraker/?_gl=1*1y0ati6*_ga*MTExNzA5ODcxMi4xNjg4MDAxMzQz*_ga_PWJGRGMV0T*MTY5OTgxOTIyOS4xMy4xLjE2OTk4MTk1OTMuMC4wLjA.) |
-|              [GrUVi](https://gruvi.cs.sfu.ca//)              |                            In SFU                            |
-|      [Utah Graphics Lab](https://graphics.cs.utah.edu/)      |                           In Utah                            |
+|                             Name                             | Description |
+| :----------------------------------------------------------: | :---------: |
+| [Center for Visual Computing](http://visualcomputing.ucsd.edu/index.shtml) |   In UCSD   |
+|              [GrUVi](https://gruvi.cs.sfu.ca//)              |   In SFU    |
+|      [Utah Graphics Lab](https://graphics.cs.utah.edu/)      |   In Utah   |
 
-## Tool
+## Tools
 
-|                 Name                 |                         Description                          |
-| :----------------------------------: | :----------------------------------------------------------: |
-|    [GIMP](https://www.gimp.org/)     | GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems. It is [free software](https://www.gnu.org/philosophy/free-sw.html), you can change its [source code](https://git.gnome.org/browse/gimp) and [distribute](https://www.gnu.org/licenses/quick-guide-gplv3.en.html) your changes. |
-| [Mesh lab](https://www.meshlab.net/) | The open source system for processing and editing 3D triangular meshes.<br/>It provides a set of tools for editing, cleaning, healing, inspecting, rendering, texturing and converting meshes. It offers features for processing raw data produced by 3D digitization tools/devices and for preparing models for 3D printing. |
+|                            Name                             |                         Description                          |
+| :---------------------------------------------------------: | :----------------------------------------------------------: |
+|          [OpenGL](http://www.opengl-tutorial.org/)          |                         Graphics API                         |
+| [Optix](https://developer.nvidia.com/rtx/ray-tracing/optix) | An application framework for achieving optimal ray tracing performance on the GPU. It provides a simple, recursive, and flexible pipeline for accelerating ray tracing algorithms. Bring the power of NVIDIA GPUs to your ray tracing applications with programmable intersection, ray generation, and shading. |
+|        [Mitsuba](https://www.mitsuba-renderer.org/)         | Mitsuba 3 is a research-oriented *retargetable* rendering system, written in portable C++17 on top of the [Dr.Jit Just-In-Time compiler](https://github.com/mitsuba-renderer/drjit). It is developed by the [Realistic Graphics Lab](https://rgl.epfl.ch/) at [EPFL](https://epfl.ch/). |
+|                [GIMP](https://www.gimp.org/)                | GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems. It is [free software](https://www.gnu.org/philosophy/free-sw.html), you can change its [source code](https://git.gnome.org/browse/gimp) and [distribute](https://www.gnu.org/licenses/quick-guide-gplv3.en.html) your changes. |
+|            [Mesh lab](https://www.meshlab.net/)             | The open source system for processing and editing 3D triangular meshes.<br/>It provides a set of tools for editing, cleaning, healing, inspecting, rendering, texturing and converting meshes. It offers features for processing raw data produced by 3D digitization tools/devices and for preparing models for 3D printing. |
+|          [ImGUI](https://github.com/ocornut/imgui)          | Dear ImGui is a bloat-free graphical user interface library for C++. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline-enabled application. It is fast, portable, renderer agnostic, and self-contained (no external dependencies). |
 
 ## Tutorial
 
 |                             Name                             |                         Description                          |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|          [OpenGL](http://www.opengl-tutorial.org/)           |                         Graphics API                         |
 |         [Learning OpenGL](https://learnopengl.com/)          |                                                              |
 |  [Optix tutorial](https://github.com/ingowald/optix7course)  |                                                              |
 |    [Tiny renderer](https://github.com/ssloy/tinyrenderer)    | Tiny Renderer or how OpenGL works: software rendering in 500 lines of code |
@@ -88,15 +92,13 @@ My journey of learning computer graphics, of which there are some things about c
 
 |                            Topics                            |                         Description                          |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| [Nanite](https://docs.unrealengine.com/5.0/en-US/nanite-virtualized-geometry-in-unreal-engine/) | Nanite is Unreal Engine 5's virtualized geometry system which uses a new internal mesh format and rendering technology to render pixel scale detail and high object counts. It intelligently does work on only the detail that can be perceived and no more. Nanite's data format is also highly compressed, and supports fine-grained streaming with automatic level of detail. |
-|          [NeRF](https://www.matthewtancik.com/nerf)          | NeRF (Neural Radiance Fields) is a method that achieves state-of-the-art results for synthesizing novel views of complex scenes by optimizing an underlying continuous volumetric scene function using a sparse set of input views. |
-|         [Mitsuba](https://www.mitsuba-renderer.org/)         | Mitsuba 3 is a research-oriented *retargetable* rendering system, written in portable C++17 on top of the [Dr.Jit Just-In-Time compiler](https://github.com/mitsuba-renderer/drjit). It is developed by the [Realistic Graphics Lab](https://rgl.epfl.ch/) at [EPFL](https://epfl.ch/). |
-| [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH) | SPlisHSPlasH is an open-source library for the physically-based simulation of fluids. The simulation in this library is based on the Smoothed Particle Hydrodynamics (SPH) method which is a popular meshless Lagrangian approach to simulate complex fluid effects. |
-|      [CUDA](https://developer.nvidia.com/cuda-toolkit)       | The NVIDIA® CUDA® Toolkit provides a development environment for creating high performance GPU-accelerated applications. With the CUDA Toolkit, you can develop, optimize, and deploy your applications on GPU-accelerated embedded systems, desktop workstations, enterprise data centers, cloud-based platforms and HPC supercomputers. The toolkit includes GPU-accelerated libraries, debugging and optimization tools, a C/C++ compiler, and a runtime library to deploy your application. |
-| [PN triangle](https://www.cise.ufl.edu/research/SurfLab/papers/00ati.pdf) | The curved point-normal triangle, in short PN triangle, is an interpolation algorithm to retrieve a cubic Bézier triangle from the vertex coordinates of a regular flat triangle and normal vectors |
-|          [ImGUI](https://github.com/ocornut/imgui)           | Dear ImGui is a bloat-free graphical user interface library for C++. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline-enabled application. It is fast, portable, renderer agnostic, and self-contained (no external dependencies). |
-|             [COLMAP](https://colmap.github.io/)              | COLMAP is a general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface. It offers a wide range of features for reconstruction of ordered and unordered image collections. |
+|     [NeRF](https://github.com/awesome-NeRF/awesome-NeRF)     | [NeRF (Neural Radiance Fields)](https://www.matthewtancik.com/nerf) is a method that achieves state-of-the-art results for synthesizing novel views of complex scenes by optimizing an underlying continuous volumetric scene function using a sparse set of input views. |
+| [Gaussian Splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting) | 3D Gaussian Splatting is a rasterization technique described in [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/) that allows real-time rendering of photorealistic scenes learned from small samples of images. |
 | [MVS](https://carlos-hernandez.org/papers/fnt_mvs_2015.pdf)  |                      Multi-View Stereo                       |
+|             [COLMAP](https://colmap.github.io/)              | COLMAP is a general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface. It offers a wide range of features for reconstruction of ordered and unordered image collections. |
+|      [CUDA](https://developer.nvidia.com/cuda-toolkit)       | The NVIDIA® CUDA® Toolkit provides a development environment for creating high performance GPU-accelerated applications. With the CUDA Toolkit, you can develop, optimize, and deploy your applications on GPU-accelerated embedded systems, desktop workstations, enterprise data centers, cloud-based platforms and HPC supercomputers. The toolkit includes GPU-accelerated libraries, debugging and optimization tools, a C/C++ compiler, and a runtime library to deploy your application. |
+| [Nanite](https://docs.unrealengine.com/5.0/en-US/nanite-virtualized-geometry-in-unreal-engine/) | Nanite is Unreal Engine 5's virtualized geometry system which uses a new internal mesh format and rendering technology to render pixel scale detail and high object counts. It intelligently does work on only the detail that can be perceived and no more. Nanite's data format is also highly compressed, and supports fine-grained streaming with automatic level of detail. |
+| [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH) | SPlisHSPlasH is an open-source library for the physically-based simulation of fluids. The simulation in this library is based on the Smoothed Particle Hydrodynamics (SPH) method which is a popular meshless Lagrangian approach to simulate complex fluid effects. |
 
 ## Source
 
